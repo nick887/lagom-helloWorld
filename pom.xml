@@ -15,7 +15,6 @@
         <module>stream-api</module>
         <module>stream-impl</module>
         <module>integration-tests</module>
-        <module>my-hello-api</module>
         <module>my-hello1-api</module>
         <module>my-hello1-impl</module>
     </modules>
